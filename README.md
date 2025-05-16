@@ -6,7 +6,7 @@ BasicChat-oLlama-Llama.cpp is a simple console application that integrates the L
 
 ## 🧠 What is LLaMA?
 
-LLaMA (Large Language Model Meta AI) is a family of language models developed by Meta. Thanks to projects like [`llama.cpp`](https://github.com/ggerganov/llama.cpp), it is possible to run them locally using only the CPU.
+LLaMA (Large Language Model Meta AI) is a family of language models developed by Meta. Thanks to projects like [`llama.cpp`](https://github.com/ggerganov/llama.cpp) or [`Ollama`](https://ollama.com), it is possible to run them locally using only the CPU.
 
 ---
 
