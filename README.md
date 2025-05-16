@@ -1,6 +1,6 @@
 > 🧠 Make use of your own LLM chatbot locally quickly and easily with just .NET and Ollama!
 
-# BasicChat-oLlama-Call.cpp
+# BasicChat-oLlama-Llama.cpp
 
 BasicChat-oLlama-Llama.cpp is a simple console application that integrates the LLaMA language models via the [`llama.cpp`](https://github.com/ggerganov/llama.cpp) or [`Ollama`](https://ollama.com) library. This tool allows a basic conversation with an LLM model to be held locally, without the need for an internet connection or external services.
 
